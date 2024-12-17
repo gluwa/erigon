@@ -1,4 +1,4 @@
-module github.com/erigontech/erigon-lib
+module github.com/gluwa/erigon-lib
 
 go 1.22.0
 
