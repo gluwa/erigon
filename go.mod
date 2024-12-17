@@ -1,8 +1,8 @@
-module github.com/erigontech/erigon
+module github.com/gluwa/erigon
 
 go 1.22.5
 
-replace github.com/erigontech/erigon-lib => ./erigon-lib
+replace github.com/gluwa/erigon-lib => ./erigon-lib
 
 replace (
 	github.com/anacrolix/torrent => github.com/erigontech/torrent v1.54.3-alpha-1
